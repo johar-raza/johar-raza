@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 <div id="banner" align="center">
-  <img src="https://github.com/johar-raza/johar-raza/blob/main/banner.png" width="768" height="200"/>
+  <img src="https://github.com/johar-raza/johar-raza/blob/main/banner.png" width="820" height="200"/>
 </div>
 
 
@@ -42,6 +42,8 @@ Here are some ideas to get you started:
  <h4>Alias: <strong>Joras3c</strong></h4>
  <img src="https://camo.githubusercontent.com/c56a78f8e7de752c15b7152af6931dba8aa800cd54448e1c0767758a6057bf80/68747470733a2f2f74696e7975726c2e636f6d2f3575707665773832" width="70px"/>
 </div>
+
+</br>
 
 <div>
   I'm a penetration tester at Kualitatem where I perform vulnerability assessments and penetration tests for international clients against their web and mobile applications, and assess the security of their networks. I have also played with IoT penetration testing.</br></br>

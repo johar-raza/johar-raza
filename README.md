@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 <div id="banner" align="center">
-  <img src="" width="1010" height="250"/>
+  <img src="https://github.com/johar-raza/johar-raza/blob/main/banner.png" width="768" height="200"/>
 </div>
 
 
